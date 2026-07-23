@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# User Configuration & Captured Databases
+config.json
+codes_db.json
+codes_export/
+codes/
+
+# IDE files
+.vscode/
+.idea/
